@@ -1,0 +1,9 @@
+﻿
+
+// Bu projede iki farklı senaryoya göre inceleme ilki m.site.com şeklinde oluşturulan mobil siteye yönlendirme.
+// Bu senaryonun testini local de yapamamaktayız. Fakat yayına alma imkanı olanlar için action üzerlerinde bulunan atrributeler
+// açılarak proje çalıştırılabilir.
+
+// İkinciside url değişmeden eğer mobil device dan istek gelmişse mobil action çalışacak desktop tan gelmişse
+// desktop çalışacak. İkinci durum şuan çalışır durumda
+
